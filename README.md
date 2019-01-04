@@ -71,9 +71,6 @@ Each Campground has:
 * Add Edit button
 * Add Update route
 
-Campground Edit Route: /campgrounds/:id/edit
-Comment Edit Route:    /campgrounds/:id/comments/:comment_id/edit
-
 ## Deleting Comments
 * Add Destroy route
 * Add Delete button
